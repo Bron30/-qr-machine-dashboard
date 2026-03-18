@@ -121,7 +121,7 @@
 
   // Firebase Config
   var firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
+    apiKey: "AIzaSyAtUjNOxehowo3hBGQZ2Ln3-XgG7-LFTFo",
     databaseURL: "https://qr-machine-project-default-rtdb.asia-southeast1.firebasedatabase.app"
   };
 
